@@ -1,0 +1,28 @@
+{
+  "name": "my-fifth-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/pp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "all-the-cities": "^3.1.0",
+    "axios": "^0.20.0",
+    "country-city-location": "^1.0.13",
+    "countrycitystatejson": "^20.8.9-a",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "geonames.js": "^2.3.0",
+    "hbs": "^4.1.1",
+    "i18n-iso-countries": "^6.0.0",
+    "lodash": "^4.17.20",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
